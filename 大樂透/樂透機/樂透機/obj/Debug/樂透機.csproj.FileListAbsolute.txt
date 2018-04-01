@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\程式\大樂透\樂透機\樂透機\bin\Debug\樂透機.exe.config
+C:\Users\USER\Desktop\程式\大樂透\樂透機\樂透機\bin\Debug\樂透機.exe
+C:\Users\USER\Desktop\程式\大樂透\樂透機\樂透機\bin\Debug\樂透機.pdb
+C:\Users\USER\Desktop\程式\大樂透\樂透機\樂透機\obj\Debug\樂透機.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\程式\大樂透\樂透機\樂透機\obj\Debug\樂透機.exe
+C:\Users\USER\Desktop\程式\大樂透\樂透機\樂透機\obj\Debug\樂透機.pdb
